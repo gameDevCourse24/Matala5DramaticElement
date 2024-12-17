@@ -19,7 +19,7 @@
 כמו כן ניתן למצוא [כאן](https://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/TheLordOfTheRing.htmlv) את קוד הHTML של המשחק.  
 וניתן למצוא [כאן](https://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/LordOfTheRing.tweehttps://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/LordOfTheRing.twee) את קובץ הtwee של המשחק.
 
-**חוויות השחקנים:**  
+### חוויות השחקנים:
 - **יהונתן**
 אני אהבתי שהמשחק רק כמה דקות אבל עוברים הרבה דברים בכמה דקות האלו, וקל לדמיין מה פרודו רואה.  
 פחות אהבתי שיש שם כמה קטעים שנגמרים באותה צורה לא משנה באיזה נתיב בחרתי.  
