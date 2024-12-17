@@ -1,12 +1,17 @@
 <div dir='rtl' lang='he'>
 
 # מטלה 5 - רכיבים דרמטיים
+# מטלה מתגלגלת:
+את המטלה המתגלגלת ניתן למצוא [כאן](https://github.com/gameDevCourse24/The-Scientist)  
+ואת [הרכיבים הדרמטיים של אפשר למצוא כאן](https://github.com/gameDevCourse24/The-Scientist/blob/main/dramatic-elements.md)  
+  
+    
 # מטלה שבועית:
 ## שאלה 1 ניתוח רכיבים רשמיים של משחק לבחירתינו:
 בחרנו במשחק pinguin diner.
 השחקן משחק פינגווינית שיש לה מסעדה והיא צריכה לשרת את אורחי המסעדה, תחת לחץ של זמן וכסף שהיא צריכה להרוויח עד סוף היום.  
-קישור למצגת  
-קישור לpdf של המצגת  
+ניתן למצוא [כאן](https://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/pinguin%20diner.pptx) את המצגת.    
+וניתן למצוא [כאן](https://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/pinguin%20diner%20slides.pdf) את דפי המצגת בפורמט PDF שניתן לראות ישירות מהגיטהאב.   
 
 ## שאלה 2 יצירת משחק בעזרת מנוע twine:
 בחרנו באופציה א' וייצרנו את המשחק שלנו על בסיס הסרט שר הטבעות.  
