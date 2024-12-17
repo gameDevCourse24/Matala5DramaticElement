@@ -16,8 +16,8 @@
 ## שאלה 2 יצירת משחק בעזרת מנוע twine:
 בחרנו באופציה א' וייצרנו את המשחק שלנו על בסיס הסרט שר הטבעות.  
 [למשחק באתר itch](https://gamedevrel2024shovhalyon.itch.io/lord-of-the-ring-text-game)  
-כמו כן ניתן למצוא [כאן]() את קוד הHTML של המשחק.
-וניתן למצוא [כאן]() את קובץ הTwee של המשחק.
+כמו כן ניתן למצוא [כאן](https://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/TheLordOfTheRing.htmlv) את קוד הHTML של המשחק.  
+וניתן למצוא [כאן](https://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/LordOfTheRing.tweehttps://github.com/gameDevCourse24/Matala5DramaticElement/blob/main/LordOfTheRing.twee) את קובץ הtwee של המשחק.
 
 **חוויות השחקנים:**  
 - **יהונתן**
